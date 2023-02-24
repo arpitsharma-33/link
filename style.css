@@ -19,7 +19,8 @@ h1 {
   font-weight:300;
   letter-spacing: 2px;
   font-size:46px;
-    font-weight: 600;
+   font-weight:bolder;
+    font-style: italic;
     background: linear-gradient(to left, #3c3c3d, #bc1515);
     color: transparent;
     background-clip: text;
