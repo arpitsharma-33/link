@@ -108,7 +108,7 @@ h1 {
 /* ............................................... LINKS ................................................*/
 
 
-.link1,.link2{
+.link1,.link2,.link3{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -120,8 +120,12 @@ h1 {
 }
 .link2{
   margin-top: 150px;
+}
+.link3{
+  margin-top: 150px;
   margin-bottom: 150px;
 }
+
 
 
 .link {
